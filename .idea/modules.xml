@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fanya-p2p.iml" filepath="$PROJECT_DIR$/fanya-p2p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-common/p2p-common.iml" filepath="$PROJECT_DIR$/p2p-common/p2p-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-home-web/p2p-home-web.iml" filepath="$PROJECT_DIR$/p2p-home-web/p2p-home-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-i-web/p2p-i-web.iml" filepath="$PROJECT_DIR$/p2p-i-web/p2p-i-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-user-client-common/p2p-user-client-common.iml" filepath="$PROJECT_DIR$/p2p-user-client-common/p2p-user-client-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-user-web/p2p-user-web.iml" filepath="$PROJECT_DIR$/p2p-user-web/p2p-user-web.iml" />
+    </modules>
+  </component>
+</project>
+

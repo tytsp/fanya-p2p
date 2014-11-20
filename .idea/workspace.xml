@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea2ae766-692d-45e7-bbd2-aeb9897e5073" name="Default" comment="" />
+    <ignored path="fanya-p2p.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/ClientSavedRequest.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645005598" ignored="false" />
+    <file path="/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416201084716" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/bind/method/CurrentUserMethodArgumentResolver.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593786" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/bind/annotation/CurrentUser.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/shiro/filter/SysUserFilter.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/shiro/filter/ServerFormAuthenticationFilter.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/taglib/Functions.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/exception/DefaultExceptionHandler.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/controller/AppController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/controller/RoleController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/controller/UserController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/controller/IndexController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/controller/LoginController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/controller/ResourceController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/controller/OrganizationController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/controller/AuthorizationController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/realm/UserRealm.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/entity/App.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/entity/Role.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/entity/User.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/entity/Resource.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/entity/Organization.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/entity/Authorization.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/remote/RemoteService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/AppService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/RoleService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/UserService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/AppServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/PasswordHelper.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/ResourceService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/RoleServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/UserServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/OrganizationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/ResourceServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/AuthorizationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/OrganizationServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/service/AuthorizationServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/session/dao/MySqlSessionDAO.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409646311113" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/session/scheduler/MySqlSessionValidationScheduler.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409646311113" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/java/com/github/zhangkaitao/shiro/chapter23/credentials/RetryLimitHashedCredentialsMatcher.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409645593787" ignored="false" />
+    <file path="/web.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413941352959" ignored="false" />
+    <file path="/SpringUtils.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409646213807" ignored="false" />
+    <file path="/Constants.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415864955783" ignored="false" />
+    <file path="/spring-config.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415863639604" ignored="false" />
+    <file path="/ClientAuthenticationFilter.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416195890687" ignored="false" />
+    <file path="/Dummy.txt" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416196716820" ignored="false" />
+    <file path="/HelloController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409732092461" ignored="false" />
+    <file path="/DefaultExceptionHandler.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1409732070776" ignored="false" />
+    <file path="/spring-mvc.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413448056775" ignored="false" />
+    <file path="/IndexController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413886222670" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/recharge-common/src/main/java/com/future/gameplatform/recharge/common/service/impl/SdkNoticeSerivceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1410341319232" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415086655959" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411371850631" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/prod-service/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411023171823" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/account-service/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411023186064" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/loan-service/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411023201902" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-registry/dubbo-registry-multicast/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-registry/dubbo-registry-zookeeper/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-registry/dubbo-registry-redis/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-monitor/dubbo-monitor-api/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-monitor/dubbo-monitor-default/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-config/dubbo-config-api/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-common/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-config/dubbo-config-spring/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-container/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-remoting/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-simple/dubbo-registry-simple/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-rpc/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-filter/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-simple/dubbo-monitor-simple/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-cluster/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-registry/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-demo/dubbo-demo-api/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-monitor/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-config/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-demo/dubbo-demo-provider/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/Constants.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411023821788" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-simple/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-demo/dubbo-demo-consumer/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-admin/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-demo/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-test/dubbo-test-benchmark/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-test/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-test/dubbo-test-compatibility/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-container/dubbo-container-api/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-test/dubbo-test-integration/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-container/dubbo-container-spring/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-test/dubbo-test-examples/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/ExtensionLoader.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411023821788" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-container/dubbo-container-jetty/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-container/dubbo-container-log4j/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-container/dubbo-container-logback/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-remoting/dubbo-remoting-api/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-remoting/dubbo-remoting-netty/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-remoting/dubbo-remoting-mina/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-remoting/dubbo-remoting-grizzly/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-remoting/dubbo-remoting-p2p/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-remoting/dubbo-remoting-http/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-remoting/dubbo-remoting-zookeeper/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-rpc/dubbo-rpc-api/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-rpc/dubbo-rpc-default/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-rpc/dubbo-rpc-injvm/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-rpc/dubbo-rpc-rmi/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils/PojoUtils.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411023821789" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils/ReflectUtils.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411023821789" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-rpc/dubbo-rpc-hessian/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-config/dubbo-config-spring/src/main/resources/META-INF/dubbo.xsd" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-rpc/dubbo-rpc-http/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils/ExecutorUtil.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411023821789" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils/ConfigUtils.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411023821789" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-rpc/dubbo-rpc-webservice/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils/NetUtils.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411023821789" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-rpc/dubbo-rpc-thrift/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils/UrlUtils.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411023821789" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-rpc/dubbo-rpc-memcached/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-rpc/dubbo-rpc-redis/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-filter/dubbo-filter-cache/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-filter/dubbo-filter-validation/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-registry/dubbo-registry-api/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo/dubbo-registry/dubbo-registry-default/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411025413353" ignored="false" />
+    <file path="$USER_HOME$/.m2/settings.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411024982935" ignored="false" />
+    <file path="/macro.vm" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414994374829" ignored="false" />
+    <file path="/head.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411302886020" ignored="false" />
+    <file path="/footer.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411302981752" ignored="false" />
+    <file path="/login.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411628599860" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/Templates/common/macro.vm" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411299421870" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414462614338" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/realm/UserRealm.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411630936427" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/dao/UserDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411621512633" ignored="false" />
+    <file path="/UserDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411621379327" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/resources/spring-config.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411634618847" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/resources/config.properties" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411614267521" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/Templates/common/head.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411302886020" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/Templates/common/footer.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411615039303" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/Templates/common/header.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411303065189" ignored="false" />
+    <file path="/header.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414986062108" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/Templates/login.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411628601500" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/jcaptcha/GMailEngine.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411613873647" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/entity/Role.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365382248" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/OrganizationServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237666530" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/AuthorizationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365827878" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/entity/App.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365382248" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/PasswordHelper.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365979180" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/UserDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237409697" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/AuthorizationDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237179731" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/RoleDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412238167865" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/RoleService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411366016412" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/ResourceDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237203315" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/AppServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415176306578" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/UserDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237224455" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/RoleDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237215501" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/OrganizationDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237190846" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/OrganizationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365890116" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/entity/Authorization.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365382248" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/ResourceService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365992693" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/UserServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415006339444" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/ResourceServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237706897" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/AppService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365805605" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/AuthorizationDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237298494" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/AppDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237255531" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/OrganizationDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237318059" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/UserService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365864136" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/entity/User.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365382248" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/RoleServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237739755" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/entity/Resource.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365382248" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/AppDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237169710" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/entity/Organization.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411365382248" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/AuthorizationServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413963655138" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/ResourceDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237343086" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/spring-config.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415864352504" ignored="false" />
+    <file path="/fragment.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416199426386" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/spring/SpringUtils.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411367089993" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/spring-config-dubbo.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411368014303" ignored="false" />
+    <file path="/spring-config-dubbo.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411368006930" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/UserServiceMain.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415863760912" ignored="false" />
+    <file path="/UserServiceMain.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411368524803" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/spring-config-dubbo-provider.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412239926869" ignored="false" />
+    <file path="/spring-config-dubbo-provider.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414992924892" ignored="false" />
+    <file path="/spring-config-dubbo-consumer.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415863563497" ignored="false" />
+    <file path="/UserRealm.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415865114909" ignored="false" />
+    <file path="/config.properties" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411614267521" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/entity/entity/Organization.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411614536464" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/entity/entity/Role.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411614536464" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/entity/entity/User.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411614536464" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/entity/entity/Resource.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411614536464" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/entity/Organization.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411623692130" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/entity/Resource.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411623702444" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/entity/Role.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411623710798" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/entity/User.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411623716721" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/dao/ResourceDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620417058" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/dao/OrganizationDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620392343" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/dao/RoleDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620438118" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/dao/RoleDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411621512633" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/dao/OrganizationDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411622129036" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/dao/ResourceDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411621641985" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/service/ResourceServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620903299" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/service/OrganizationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620750797" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/service/RoleServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411621038701" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/service/ResourceService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620830968" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/service/OrganizationServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620790093" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/service/RoleService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620994432" ignored="false" />
+    <file path="/UserServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415006336719" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/service/UserServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411621066314" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/dao/UserDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411621103923" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/service/UserService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411621080783" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/web/controller/IndexController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411622494769" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/web/controller/UserController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411622393691" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/service/PasswordHelper.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620801044" ignored="false" />
+    <file path="/Organization.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411623683141" ignored="false" />
+    <file path="/Resource.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411623698899" ignored="false" />
+    <file path="/Role.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411623708666" ignored="false" />
+    <file path="/User.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411623715473" ignored="false" />
+    <file path="/OrganizationDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620375420" ignored="false" />
+    <file path="/ResourceDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620412308" ignored="false" />
+    <file path="/RoleDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411620434325" ignored="false" />
+    <file path="/UserDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411621103923" ignored="false" />
+    <file path="/OrganizationDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411622121904" ignored="false" />
+    <file path="/ResourceDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411621638659" ignored="false" />
+    <file path="/RoleDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411621505089" ignored="false" />
+    <file path="/OrganizationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415070769805" ignored="false" />
+    <file path="/OrganizationServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237660153" ignored="false" />
+    <file path="/ResourceService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415070720366" ignored="false" />
+    <file path="/ResourceServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237705751" ignored="false" />
+    <file path="/RoleServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237737879" ignored="false" />
+    <file path="/RoleService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415070657742" ignored="false" />
+    <file path="/UserService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415070531043" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/resources/spring-config-shiro.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411633532461" ignored="false" />
+    <file path="/UserController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413449141090" ignored="false" />
+    <file path="/spring-config-shiro.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413531994904" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/Templates/register.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411624023434" ignored="false" />
+    <file path="/register.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411624022409" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/web/controller/LoginController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411623853044" ignored="false" />
+    <file path="/LoginController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415865641764" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/Templates/index.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411624229965" ignored="false" />
+    <file path="/index.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414994457603" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411633964679" ignored="false" />
+    <file path="$PROJECT_DIR$/../shiro-example/shiro-example-chapter22/src/main/resources/resources.properties" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411627464909" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/resources/ehcache/ehcache.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411628671510" ignored="false" />
+    <file path="$PROJECT_DIR$/../shiro-example/shiro-example-chapter12/src/main/resources/spring-beans.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411629374919" ignored="false" />
+    <file path="/spring-beans.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411629373235" ignored="false" />
+    <file path="$PROJECT_DIR$/../shiro-example/shiro-example-chapter12/src/main/java/com/github/zhangkaitao/shiro/chapter12/dao/UserDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411629587858" ignored="false" />
+    <file path="$PROJECT_DIR$/../shiro-example/shiro-example-chapter22/src/main/java/com/github/zhangkaitao/shiro/chapter22/dao/UserDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411631251644" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/resources/spring-mvc.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411635500947" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/jsp/common/header.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414549157997" ignored="false" />
+    <file path="/header.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414986283487" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/jsp/login.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411633443919" ignored="false" />
+    <file path="/login.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413790049166" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/jsp/index.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411633151938" ignored="false" />
+    <file path="/index.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412316991346" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/jsp/common/head.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411632686831" ignored="false" />
+    <file path="/head.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413537549984" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/jsp/common/footer.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414480184159" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/common-utilities/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411633999185" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/webapp/WEB-INF/jsp/register.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411636078350" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/web/controller/ChannelController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411638844106" ignored="false" />
+    <file path="/ChannelController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411638505021" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/admin-gateway/src/main/java/com/future/gameplatform/admin/web/controller/SettleController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411638670586" ignored="false" />
+    <file path="/SettleController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1411638659854" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412171396285" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412171389906" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/common/remote/PermissionContext.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166568689" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/common/service/RoleService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166568689" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/common/service/AppService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166668836" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/common/service/UserService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166568689" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/common/service/AuthorizationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166568689" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/common/service/ResourceService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166568689" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/common/core/ClientSavedRequest.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166568689" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/common/remote/RemoteServiceInterface.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166568689" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/common/service/OrganizationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166568689" ignored="false" />
+    <file path="/AppService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415070888084" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/AuthorizationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170525367" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/OrganizationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170541695" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/ResourceService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170556107" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/RoleService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170600223" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/UserService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170648834" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/App.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166831065" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/Role.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166831065" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/Resource.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166831065" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/Organization.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166831065" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/User.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166831065" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/Authorization.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412166831065" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/AppService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170481518" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/PasswordHelper.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237816547" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412224055158" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-consumer-web/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412288683382" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-provider/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412224094303" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-provider/src/main/java/com/fanya/dubbotest/ProviderMain.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412222954604" ignored="false" />
+    <file path="/ProviderMain.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412209946133" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-common-service/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412210817703" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-common-service/src/main/java/com/fanya/dubbotest/service/TestService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412210251605" ignored="false" />
+    <file path="/TestService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412210243232" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-provider/src/main/java/com/fanya/dubbotest/service/impl/TestServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412210411903" ignored="false" />
+    <file path="/TestServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412210394208" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-provider/src/main/resources/dubbo-provider.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412292540048" ignored="false" />
+    <file path="/dubbo-provider.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412218703836" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-consumer-web/src/main/webapp/WEB-INF/web.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412210974656" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-consumer-web/src/main/resources/spring-config.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412288625020" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-consumer-web/src/main/resources/spring-mvc.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412292734830" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-consumer-web/src/main/java/com/fanya/dubbotest/web/controller/TestController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412288611096" ignored="false" />
+    <file path="/TestController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412288610143" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-consumer-web/src/main/webapp/WEB-INF/jsp/index.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412213869192" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-provider/src/test/java/com/fanya/dubbotest/provider/TestProvider.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412215456676" ignored="false" />
+    <file path="/TestProvider.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412215432850" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-provider/src/test/java/com/fanya/dubbotest/provider/consumer.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412214880635" ignored="false" />
+    <file path="/consumer.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412214878806" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-provider/src/main/resources/dubbo-simple-registry.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412218599837" ignored="false" />
+    <file path="/dubbo-simple-registry.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412218595398" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-provider/src/main/java/com/fanya/dubbotest/SimpleRegistryService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412216199824" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-provider/src/test/consumer.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412216345739" ignored="false" />
+    <file path="$PROJECT_DIR$/../dubbo-test/dubbo-provider/src/main/resources/log4j.properties" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412224740695" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/log4j.properties" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412229812118" ignored="false" />
+    <file path="/resources.properties" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412237123836" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/resources.properties" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413452507202" ignored="false" />
+    <file path="/AppServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415176304508" ignored="false" />
+    <file path="/AuthorizationServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413963622894" ignored="false" />
+    <file path="/SysUserFilter.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415865283245" ignored="false" />
+    <file path="/footer.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413537482118" ignored="false" />
+    <file path="/register.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413775171078" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/config/mybatis-config.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412668689140" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/config/generatorConfiguration.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412389378976" ignored="false" />
+    <file path="/generatorConfiguration.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412389372073" ignored="false" />
+    <file path="/RoleController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413449490086" ignored="false" />
+    <file path="/ResourceController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412667856249" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/SysResource.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412667953383" ignored="false" />
+    <file path="/OrganizationController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413449504475" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/SysOrganization.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412668049980" ignored="false" />
+    <file path="/AuthorizationController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413450963769" ignored="false" />
+    <file path="/AppController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415865409655" ignored="false" />
+    <file path="/Functions.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1412668307009" ignored="false" />
+    <file path="/mybatis-config.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164616343" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/sql/user-schema.sql" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415075707874" ignored="false" />
+    <file path="/user-schema.sql" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415075701486" ignored="false" />
+    <file path="D:/eclipseSpace/mybatisauto/src/com/fanya/p2p/common/entity/SysUser.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413359548309" ignored="false" />
+    <file path="D:/eclipseSpace/mybatisauto/src/com/fanya/p2p/common/entity/SysUserExample.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413359548309" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/SysUserSecurityMapper.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413363146613" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/SysUserMapper.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413359450284" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/dao/SysUserIdentificationMapper.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413359390226" ignored="false" />
+    <file path="D:/eclipseSpace/mybatisauto/src/com/fanya/p2p/common/entity/SysUserSecurity.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413359548309" ignored="false" />
+    <file path="D:/eclipseSpace/mybatisauto/src/com/fanya/p2p/common/entity/SysUserIdentification.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413359548309" ignored="false" />
+    <file path="D:/eclipseSpace/mybatisauto/src/com/fanya/p2p/common/entity/SysUserIdentificationExample.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413359548309" ignored="false" />
+    <file path="D:/eclipseSpace/mybatisauto/src/com/fanya/p2p/common/entity/SysUserSecurityExample.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413359548309" ignored="false" />
+    <file path="/SysUserMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413360846528" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/config/mappers/SysUserMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413360846528" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/utils/UserSecurityAuthTypeEnum.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413362954047" ignored="false" />
+    <file path="/UserSecurityAuthTypeEnum.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413362539742" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/utils/UserSecurityAuthResultEnum.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413362965614" ignored="false" />
+    <file path="/UserSecurityAuthResultEnum.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413362940171" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/utils/UserIdentifacationTypeEnum.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413364372032" ignored="false" />
+    <file path="/UserIdentifacationTypeEnum.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413364372032" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/utils/UserIdentificationTypeEnum.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413364397105" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/CapitalAccount.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415168150875" ignored="false" />
+    <file path="/CapitalAccount.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415168149841" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/CapitalAccountFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413442942258" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/SysUser.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413443644617" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/SysUserIdentification.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413442975311" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/SysUserSecurity.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413442980659" ignored="false" />
+    <file path="/SysUser.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413443637394" ignored="false" />
+    <file path="/UserServiceLocalImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413449810370" ignored="false" />
+    <file path="/AuthorizationServiceLocalImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413448966705" ignored="false" />
+    <file path="/OrganizationServiceLocalImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413449465743" ignored="false" />
+    <file path="/RemoteService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415865186430" ignored="false" />
+    <file path="$PROJECT_DIR$/../shiro-example/shiro-example-chapter23-server/src/main/java/com/github/zhangkaitao/shiro/chapter23/web/controller/UserController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413530203089" ignored="false" />
+    <file path="/findPasswd.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413531726157" ignored="false" />
+    <file path="/shiro-client.properties" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416196009823" ignored="false" />
+    <file path="/AbstractController.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413798899179" ignored="false" />
+    <file path="/AccountServiceLocal.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415868528835" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/UserIdentificationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170622801" ignored="false" />
+    <file path="/UserIdentificationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415070602224" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/UserSecurityService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170632684" ignored="false" />
+    <file path="/UserSecurityService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415070573161" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/AccountService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170456534" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/UserIdentificationServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413951185989" ignored="false" />
+    <file path="/UserIdentificationServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413951175740" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/config/mappers/SysUserIdentificationMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413950842902" ignored="false" />
+    <file path="/SysUserIdentificationMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413950842420" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/UserSecurityServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413951582366" ignored="false" />
+    <file path="/UserSecurityServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413951578846" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/config/mappers/SysUserSecurityMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413951375600" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/recharge-mobile-gateway/src/test/java/com/gp/test/gateway/mobile/recharge/MobileTest.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414736484710" ignored="false" />
+    <file path="/MobileTest.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414639279737" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/config/mappers/SysAppMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413961189418" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/config/mappers/SysOrganizationMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413961782891" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/config/mappers/SysResourceMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413961796351" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/config/mappers/SysRoleMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413961809557" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/config/mappers/SysUserAppRolesMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413961819261" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-common/src/main/java/com/future/gameplatform/account/game/entity/SMSFilter.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413964833391" ignored="false" />
+    <file path="/SMSFilter.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413964765445" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-common/src/main/java/com/future/gameplatform/account/game/entity/Keyword.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413964824128" ignored="false" />
+    <file path="/Keyword.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1413964812430" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-common/src/main/java/com/future/gameplatform/account/game/dao/impl/RechargeAppAccountDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414732693655" ignored="false" />
+    <file path="/RechargeAppAccountDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414647359413" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-cp/src/main/java/com/future/gameplatform/account/cp/resource/RechargeAppAccountResource.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414733839099" ignored="false" />
+    <file path="/RechargeAppAccountResource.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414733831687" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-common/src/main/java/com/future/gameplatform/account/game/entity/Device.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414732558755" ignored="false" />
+    <file path="/Device.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414732500753" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-common/src/main/java/com/future/gameplatform/account/game/dao/DeviceDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414733316035" ignored="false" />
+    <file path="/DeviceDao.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414733313500" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-common/src/main/java/com/future/gameplatform/account/game/dao/impl/DeviceDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414733361845" ignored="false" />
+    <file path="/DeviceDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414733358911" ignored="false" />
+    <file path="/BasicDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414732709426" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-common/src/main/java/com/future/gameplatform/account/game/dao/impl/BasicDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414732711328" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-common/src/main/java/com/future/gameplatform/account/game/dao/impl/UserAccountDaoImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414732727328" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-common/src/main/java/com/future/gameplatform/account/game/service/DeviceService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414732967284" ignored="false" />
+    <file path="/DeviceService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414732961991" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-common/src/main/java/com/future/gameplatform/account/game/service/impl/DeviceServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414733477294" ignored="false" />
+    <file path="/DeviceServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414733475282" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/account-service-cp/src/main/resources/applicationContext.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414733688714" ignored="false" />
+    <file path="/applicationContext.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414733685582" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/account-service/src/main/resources/spring-config-dubbo-provider.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414992924892" ignored="false" />
+    <file path="/log4j.properties" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414993574332" ignored="false" />
+    <file path="/leftmenu.html" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414994352573" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/account-service/src/main/java/com/fanya/p2p/core/account/service/AccountServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415005956780" ignored="false" />
+    <file path="/AccountServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415005921540" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/utils/AccountCategaryEnum.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414997210932" ignored="false" />
+    <file path="/AccountCategaryEnum.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414997195656" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/utils/CommonState.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414997458858" ignored="false" />
+    <file path="/CommonState.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414997456032" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/com/fanya/p2p/common/p2p-dubbo-service/1.0-SNAPSHOT/p2p-dubbo-service-1.0-SNAPSHOT.jar!/com/fanya/p2p/common/entity/CapitalAccount.class" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415000637025" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/com/fanya/p2p/common/p2p-dubbo-service/1.0-SNAPSHOT/p2p-dubbo-service-1.0-SNAPSHOT.jar!/com/fanya/p2p/common/entity/SysUser.class" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415000637025" ignored="false" />
+    <file path="/AccountService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170442255" ignored="false" />
+    <file path="/CapitalAccountMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414997923088" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/account-service/src/main/resources/config/mappers/CapitalAccountMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1414997925378" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/utils/ServiceResult.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415000135733" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/utils/Pagination.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415000517204" ignored="false" />
+    <file path="/Pagination.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415000486742" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/utils/AccountFlowTypeEnum.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415002751068" ignored="false" />
+    <file path="/AccountFlowTypeEnum.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415002748364" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/account-service/src/main/resources/config/mappers/CapitalAccountFlowMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415003007257" ignored="false" />
+    <file path="/CapitalAccountFlowMapper.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415003007257" ignored="false" />
+    <file path="/AccountFlowService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170423856" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/AccountFlowService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170425517" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/account-service/src/main/java/com/fanya/p2p/core/account/service/AccountFlowServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415006302676" ignored="false" />
+    <file path="/AccountFlowServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415006302676" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/recharge-common/src/main/java/com/future/gameplatform/recharge/common/service/impl/NoticeCpHelper.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415065529428" ignored="false" />
+    <file path="/NoticeCpHelper.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415065262643" ignored="false" />
+    <file path="/AuthorizationService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415070830849" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/account-service/src/sql/account-schema.sql" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415158103716" ignored="false" />
+    <file path="/account-schema.sql" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415075392769" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/loan-service/src/sql/loan-schema.sql" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164823450" ignored="false" />
+    <file path="/loan-schema.sql" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164820101" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/prod-service/src/sql/prod_schema.sql" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415158386811" ignored="false" />
+    <file path="/prod_schema.sql" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415087327928" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/trade-service/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415086690753" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/trade-service/src/sql/trade-schema.sql" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415158548122" ignored="false" />
+    <file path="/trade-schema.sql" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415158543258" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/CapitalAccountBankcard.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164441481" ignored="false" />
+    <file path="/CapitalAccountBankcard.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164435881" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/account-service/src/main/resources/config/mybatis-config.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164616343" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/Loan.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164956057" ignored="false" />
+    <file path="/Loan.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164946656" ignored="false" />
+    <file path="/LoanAuditFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164970906" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/LoanAuditFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164971830" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/LoanInterest.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164984191" ignored="false" />
+    <file path="/LoanInterest.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164983231" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/LoanInterestFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164991554" ignored="false" />
+    <file path="/LoanInterestFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415164990775" ignored="false" />
+    <file path="/LoanReturn.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165000043" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/LoanReturn.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165000725" ignored="false" />
+    <file path="/LoanReturnFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165008766" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/LoanReturnFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165009602" ignored="false" />
+    <file path="/LoanReturnPay.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165017546" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/LoanReturnPay.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165018320" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/LoanWarrant.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165027287" ignored="false" />
+    <file path="/LoanWarrant.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165026330" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/SysBiz.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165350439" ignored="false" />
+    <file path="/SysBiz.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165349334" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/OrderPay.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165409147" ignored="false" />
+    <file path="/OrderPay.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165408276" ignored="false" />
+    <file path="/Package.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165443276" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/Package.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165444349" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/PackageItem.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165452657" ignored="false" />
+    <file path="/PackageItem.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165451708" ignored="false" />
+    <file path="/ProdAuditFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165458932" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/ProdAuditFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165459973" ignored="false" />
+    <file path="/ProdCollect.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165466746" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/ProdCollect.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165467528" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/ProdInterest.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165474700" ignored="false" />
+    <file path="/ProdInterest.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165473853" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/ProdInterestFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165482347" ignored="false" />
+    <file path="/ProdInterestFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165481641" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/ProdReturn.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165489616" ignored="false" />
+    <file path="/ProdReturn.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165489106" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/ProdReturnFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165496445" ignored="false" />
+    <file path="/ProdReturnFlow.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165495685" ignored="false" />
+    <file path="/Product.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165502843" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/Product.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165503529" ignored="false" />
+    <file path="/Recharge.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165511756" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/Recharge.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165512481" ignored="false" />
+    <file path="/UserOrder.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165522426" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/UserOrder.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165523097" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/prod-service/src/main/resources/config/mybatis-config.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415165746249" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/service/AccountBankcardService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170402905" ignored="false" />
+    <file path="/AccountBankcardService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415170402620" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/utils/SignUtil.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415175218434" ignored="false" />
+    <file path="/SignUtil.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415175217646" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/BaseServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415172608676" ignored="false" />
+    <file path="/BaseServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415174069547" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/SignServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415174996358" ignored="false" />
+    <file path="/SignServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415174070252" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/BasicServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415174996358" ignored="false" />
+    <file path="/BasicServiceImpl.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415174756329" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/java/com/fanya/p2p/core/user/service/SignService.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415174271521" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/user-service/src/main/resources/spring-config-dubbo-consumer.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415864352504" ignored="false" />
+    <file path="$PROJECT_DIR$/../fanya-core/account-service/src/main/java/com/fanya/p2p/core/account/AccountServiceMain.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415864442104" ignored="false" />
+    <file path="$PROJECT_DIR$/../game-platform/recharge-notice-gateway/src/test/java/com/future/gameplatform/recharge/notice/gateway/resource/TestNoticeResource.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415936514757" ignored="false" />
+    <file path="/TestNoticeResource.java" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1415936514757" ignored="false" />
+    <file path="$PROJECT_DIR$/../shiro-example/shiro-example-chapter23-app1/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416115997303" ignored="false" />
+    <file path="$PROJECT_DIR$/../shiro-example/shiro-example-chapter23-app2/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416116006943" ignored="false" />
+    <file path="$PROJECT_DIR$/../shiro-example/shiro-example-chapter23-server/pom.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416115978845" ignored="false" />
+    <file path="/shiro-client-default.properties" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416115099359" ignored="false" />
+    <file path="$PROJECT_DIR$/../shiro-example/shiro-example-chapter23-client/src/main/resources/client/shiro-client-default.properties" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416115960438" ignored="false" />
+    <file path="$PROJECT_DIR$/../shiro-example/shiro-example-chapter23-app2/src/main/webapp/success.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416146743522" ignored="false" />
+    <file path="/success.jsp" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416146683253" ignored="false" />
+    <file path="/spring-client-shiro.xml" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416195959869" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/webapp/WEB-INF/static/js/jquery-1.11.0.min.js" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416199432617" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/webapp/WEB-INF/static/JQuery zTree v3.5.15/api/apiCss/jquery-1.6.2.min.js" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416199432617" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/webapp/WEB-INF/static/js/bootstrapValidator.js" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416199432617" ignored="false" />
+    <file path="$PROJECT_DIR$/p2p-user-web/src/main/webapp/WEB-INF/static/JQuery zTree v3.5.15/js/jquery-1.4.4.min.js" changelist="ea2ae766-692d-45e7-bbd2-aeb9897e5073" time="1416199432617" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/p2p-user-client-common/src/main/java/com/fanya/p2p/front/user/client/ClientRealm.java" line="28" class="com.fanya.p2p.front.user.client.ClientRealm" package="com.fanya.p2p.front.user.client">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/p2p-user-client-common/src/main/java/com/fanya/p2p/front/user/client/ClientRealm.java" line="39" class="com.fanya.p2p.front.user.client.ClientRealm" package="com.fanya.p2p.front.user.client">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="fanya-p2p" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SpringUtils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/spring/SpringUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="45" selection-start="737" selection-end="774" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyFormAuthenticationFilter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/jcaptcha/MyFormAuthenticationFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="13" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JCaptchaFilter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/jcaptcha/JCaptchaFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="13" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JCaptcha.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/jcaptcha/JCaptcha.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="13" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GMailEngine.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/jcaptcha/GMailEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="13" selection-start="1587" selection-end="1587" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserRealm.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/realm/UserRealm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="13" selection-start="707" selection-end="707" vertical-scroll-proportion="0.06761566">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemcacheSessionDao.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/session/dao/MemcacheSessionDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="13" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrentUserMethodArgumentResolver.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/web/bind/method/CurrentUserMethodArgumentResolver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="13" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SysUserFilter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/web/shiro/filter/SysUserFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="13" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/p2p-user-client-common/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-i-web/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-home-web/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-user-web/src/main/resources/development/log4j.properties" />
+        <option value="$PROJECT_DIR$/p2p-home-web/src/main/resources/development/client/shiro-client.properties" />
+        <option value="$PROJECT_DIR$/p2p-i-web/src/main/resources/development/log4j.properties" />
+        <option value="$PROJECT_DIR$/p2p-i-web/src/main/resources/spring-config.xml" />
+        <option value="$PROJECT_DIR$/p2p-user-client-common/src/main/resources/client/spring-client.xml" />
+        <option value="$PROJECT_DIR$/p2p-i-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/p2p-home-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/p2p-user-web/src/main/resources/development/spring-config.xml" />
+        <option value="$PROJECT_DIR$/p2p-user-web/src/main/resources/development/spring-config-mysql.xml" />
+        <option value="$PROJECT_DIR$/p2p-user-web/src/main/resources/development/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/p2p-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-user-client-common/src/main/resources/development/spring-client.xml" />
+        <option value="$PROJECT_DIR$/p2p-i-web/src/main/resources/development/spring-config.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\apache-maven-3.1.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="development" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="showIgnored" value="false" />
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="fanya-p2p" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Profiles" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProfilesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1618" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fanya-p2p" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fanya-p2p" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fanya-p2p" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/p2p-common/src/main/java/com/fanya/p2p/common" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fanya.p2p.front.user.session.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaSpace\fanya-p2p\p2p-user-web\src\main\resources\development" />
+      <recent name="D:\ideaSpace\fanya-p2p\p2p-user-web\src\main\resources\release" />
+      <recent name="D:\ideaSpace\fanya-p2p\p2p-i-web\src\main\resources" />
+      <recent name="D:\ideaSpace\fanya-p2p\p2p-i-web\src\main\webapp\WEB-INF" />
+      <recent name="D:\ideaSpace\fanya-p2p\p2p-i-web\src\main\webapp\WEB-INF\Templates" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fanya.p2p.front.i.web.utils" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaSpace\fanya-p2p\p2p-home-web\src\main\resources\development" />
+      <recent name="D:\ideaSpace\fanya-p2p\p2p-user-client-common\src\main\resources\development" />
+      <recent name="D:\ideaSpace\fanya-p2p\p2p-i-web\src\main\resources\development" />
+      <recent name="D:\ideaSpace\fanya-p2p\p2p-user-client-common\src\main\resources" />
+      <recent name="D:\ideaSpace\fanya-p2p\p2p-user-web\src\main\resources\development" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.p2p-i-web [org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run]">
+    <configuration default="false" name="p2p-user-web [org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/p2p-user-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="p2p-i-web [org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/p2p-i-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="p2p-home-web [org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/p2p-home-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Maven.p2p-user-web [org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run]" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.p2p-i-web [org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run]" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.p2p-home-web [org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run]" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Maven.p2p-i-web [org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run]" />
+        <item index="1" class="java.lang.String" itemvalue="Maven.p2p-user-web [org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run]" />
+        <item index="2" class="java.lang.String" itemvalue="Maven.p2p-home-web [org.mortbay.jetty:jetty-maven-plugin:8.1.8.v20121106:run]" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea2ae766-692d-45e7-bbd2-aeb9897e5073" name="Default" comment="" />
+      <created>1409644506541</created>
+      <updated>1409644506541</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967743" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43568465" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11612903" sideWeight="0.5716332" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2916129" sideWeight="0.5716332" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42836675" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6346705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39971346" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/p2p-i-web/src/main/webapp/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-i-web/src/main/webapp/WEB-INF/Templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-i-web/src/main/webapp/WEB-INF/Templates/common/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-i-web/src/main/webapp/WEB-INF/Templates/common/macro.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="19" selection-start="624" selection-end="624" vertical-scroll-proportion="0.49761903" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-i-web/src/main/resources/development/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="38" selection-start="776" selection-end="781" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/resources/development/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="17" selection-start="1719" selection-end="1762" vertical-scroll-proportion="-17.36">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/jcaptcha/MyFormAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/jcaptcha/JCaptchaFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="13" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/jcaptcha/JCaptcha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/jcaptcha/GMailEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="1587" selection-end="1587" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/session/dao/MemcacheSessionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="13" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/web/shiro/filter/SysUserFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/web/bind/method/CurrentUserMethodArgumentResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/spring/SpringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="45" selection-start="737" selection-end="774" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/session/scheduler/MySqlSessionValidationScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="13" selection-start="726" selection-end="726" vertical-scroll-proportion="-2.0776858" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2p-user-web/src/main/java/com/fanya/p2p/front/user/realm/UserRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="13" selection-start="707" selection-end="707" vertical-scroll-proportion="0.06761566">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>p2p-home-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>p2p-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
